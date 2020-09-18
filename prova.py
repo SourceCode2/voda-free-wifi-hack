@@ -1,3 +1,7 @@
+Inizia anche tu a guardare grandi serie TV e film. È gratis per un mese!
+
+https://www.netflix.com/us/n/f2f5b557-83b7-45da-94ee-da177278b4dd
+
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 import time
